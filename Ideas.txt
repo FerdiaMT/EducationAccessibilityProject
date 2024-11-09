@@ -1,4 +1,51 @@
 Accesibility in education , ideas
 what does accesibility mean:
 
-what does education mean:
+what does education mean: ???
+
+=========================================================================
+
+							NOTES ON STUFF
+
+=========================================================================
+
+tech we should use :
+
+AI - kind of the big thing
+Website or App - just makes sure it isnt a command line exe
+
+=========================================================================
+
+							WHAT WE CAN TEACH
+
+=========================================================================
+
+
+Coding , mabye a more acessible way of learning programming ?
+Maths , make maths easier somehow, accesibility isnt just disability
+languadges, the spoken kind, mabye some sort of translator
+
+=========================================================================
+
+						PROGRAMING LANGUADGES:
+
+=========================================================================
+
+Java (necessary)
+
+
+
+if website -> react framework (jsx,html,css)
+if database -> mongodb w/ springboot java 
+
+if pc App -> raylib w/ java
+
+if phone app -> no clue !!!
+
+=========================================================================
+
+							FINAL IDEAS:
+
+=========================================================================
+
+Ai photo to pdf / word document
