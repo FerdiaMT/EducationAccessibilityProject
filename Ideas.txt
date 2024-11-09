@@ -49,3 +49,24 @@ if phone app -> no clue !!!
 =========================================================================
 
 Ai photo to pdf / word document
+
+/////
+
+Website that teaches Calculus 1 and Calculus 2 through questions presented on the screen and answers
+Website would have streaks for doing work, would require you to sign in
+Screen reader ( extra accesibility)
+chatgpt wrapper called like mathsBot or something that you can ask questions
+Could have 2 sections, a course you can follow and a random Q section, mabye exam section aswell
+could aglorithimcly come up with answer, which would allow you to see how the answer could be worked out
+we could select which question would show up, would make showing how answer is done allot easier
+
+
+
+
+
+
+
+
+
+
+
